@@ -292,14 +292,13 @@ Frontend will run on: **http://localhost:3000**
 ## 📞 Contact Information
 
 **Candidate:** Md Thorat Islam  
-**Email:** thoratislam@example.com  
+**Email:** mdthoratislam1993.oni@gmail.com
 **Position:** AI Engineer / Full Stack AI Developer  
 **Company:** ACI PLC
 
 ---
 
 ## 📝 Notes
-
 ### **API Keys Required:**
 1. **Hugging Face API Key** - For YOLO object detection
    - Get from: https://huggingface.co/settings/tokens
@@ -310,16 +309,10 @@ Frontend will run on: **http://localhost:3000**
 - System includes intelligent mock responses when API keys are not configured
 - Mock data demonstrates all features working correctly
 - Production deployment should use real API keys
-
 ---
 
 ## 🙏 Acknowledgments
-
 Developed as part of the case study assessment for ACI PLC's AI Engineer position.
-
 Thank you for reviewing my submission!
-
 ---
-
-**License:** MIT  
 **Repository:** https://github.com/MdThoratIslam/ACI-Assignment
