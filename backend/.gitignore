@@ -24,7 +24,9 @@ wheels/
 *.egg
 
 # Environment
-
+.env
+.env.local
+.env.*.local
 
 # Database
 *.db
